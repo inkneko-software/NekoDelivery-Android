@@ -1,6 +1,7 @@
 package com.inkneko.delivery;
 
 import android.os.Bundle;
+import android.util.DisplayMetrics;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.inkneko.android.utils.ScreenSupport;
@@ -33,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
         getSupportActionBar().setCustomView(R.layout.action_bar_custom);
 
 
-        ScreenSupport.setCustomDensity(this, getApplication());
+        //ScreenSupport.setCustomDensity(this, getApplication());
     }
+
+
 }

@@ -5,4 +5,6 @@
     <color name="colorPrimaryDark">#34495E</color>
     <color name="colorAccent">#D81B60</color>
     <color name="colorSelectedBackground">#FFCC33</color>
+    <color name="colorLoginFormBackground">#f6f8fa</color>
+    <color name="colorForgetPassword">#1A6DAC</color>
 </resources>
